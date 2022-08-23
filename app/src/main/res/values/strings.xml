@@ -1,0 +1,261 @@
+<resources>
+    <string name="app_name">SDK</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <!-- COIN_DCD -->
+    <string name="domain_1001000">암호화 화폐</string>
+    <string name="domain_1001001">Bitcoin</string>
+    <string name="domain_1001002">Litecoin</string>
+    <string name="domain_1001003">Namecoin</string>
+    <string name="domain_1001004">SwiftCoin</string>
+    <string name="domain_1001005">Bytecoin</string>
+    <string name="domain_1001006">Peercoin</string>
+    <string name="domain_1001007">Dogecoin</string>
+    <string name="domain_1001008">Emercoin</string>
+    <string name="domain_1001009">Feathercoin</string>
+    <string name="domain_1001010">Gridcoin</string>
+    <string name="domain_1001011">Primecoin</string>
+    <string name="domain_1001012">Ripple</string>
+    <string name="domain_1001013">Nxt</string>
+    <string name="domain_1001014">Auroracoin</string>
+    <string name="domain_1001015">Dash</string>
+    <string name="domain_1001016">NEO</string>
+    <string name="domain_1001017">MazaCoin</string>
+    <string name="domain_1001018">Monero</string>
+    <string name="domain_1001019">NEM</string>
+    <string name="domain_1001020">Tether</string>
+    <string name="domain_1001021">PotCoin</string>
+    <string name="domain_1001022">Synereo AMP</string>
+    <string name="domain_1001023">Titcoin</string>
+    <string name="domain_1001024">Verge</string>
+    <string name="domain_1001025">Stellar</string>
+    <string name="domain_1001026">Vertcoin</string>
+    <string name="domain_1001027">Ethereum</string>
+    <string name="domain_1001028">Ethereum Classic</string>
+    <string name="domain_1001029">IOTA</string>
+    <string name="domain_1001030">Decred</string>
+    <string name="domain_1001031">Waves Platform</string>
+    <string name="domain_1001032">Zcash</string>
+    <string name="domain_1001033">Bitcoin Cash</string>
+    <string name="domain_1001034">EOS</string>
+    <string name="domain_1001035">Cardano</string>
+    <string name="domain_1001036">Petro</string>
+    <string name="domain_1001037">Qtum</string>
+
+    <!-- LINK_TYPE_DCD -->
+    <string name="domain_1002000">링크 유형</string>
+    <string name="domain_1002001">General</string>
+    <string name="domain_1002002">Social</string>
+    <string name="domain_1002003">Additional</string>
+
+    <!-- ICO_CATEGORY_DCD -->
+    <string name="domain_1003000">ICO 분류</string>
+    <string name="domain_1003001">Art</string>
+    <string name="domain_1003002">Artificial Intelligence</string>
+    <string name="domain_1003003">Banking</string>
+    <string name="domain_1003004">Big Data</string>
+    <string name="domain_1003005">Business services</string>
+    <string name="domain_1003006">Casino <![CDATA[&]]> Gambling</string>
+    <string name="domain_1003007">Charity</string>
+    <string name="domain_1003008">Communication</string>
+    <string name="domain_1003009">Cryptocurrency</string>
+    <string name="domain_1003010">Education</string>
+    <string name="domain_1003011">Electronics</string>
+    <string name="domain_1003012">Energy</string>
+    <string name="domain_1003013">Entertainment</string>
+    <string name="domain_1003014">Health</string>
+    <string name="domain_1003015">Infrastructure</string>
+    <string name="domain_1003016">Internet</string>
+    <string name="domain_1003017">Investment</string>
+    <string name="domain_1003018">Legal</string>
+    <string name="domain_1003019">Manufacturing</string>
+    <string name="domain_1003020">Media</string>
+    <string name="domain_1003021">Other</string>
+    <string name="domain_1003022">Platform</string>
+    <string name="domain_1003023">Real estate</string>
+    <string name="domain_1003024">Retail</string>
+    <string name="domain_1003025">Smart Contract</string>
+    <string name="domain_1003026">Software</string>
+    <string name="domain_1003027">Sports</string>
+    <string name="domain_1003028">Tourism</string>
+    <string name="domain_1003029">Virtual Reality</string>
+
+    <!-- ICO_ST_DCD -->
+    <string name="domain_1004000">ICO 진행 상태</string>
+    <string name="domain_1004001">진행</string>
+    <string name="domain_1004002">예정</string>
+    <string name="domain_1004003">종료</string>
+
+    <!-- NOTIAPP_TYPE_DCD -->
+    <string name="domain_1005000">알림 채널 타입</string>
+    <string name="domain_1005001">문자 알림</string>
+    <string name="domain_1005002">웹 알림</string>
+    <string name="domain_1005003">이메일 알림</string>
+    <string name="domain_1005004">앱 알림</string>
+
+    <!-- MOBILE_OS_DCD -->
+    <string name="domain_1006000">모바일 운영시스템</string>
+    <string name="domain_1006001">Android</string>
+    <string name="domain_1006002">iOS</string>
+
+    <!-- NOTI_PLATFORM_DCD -->
+    <string name="domain_1007000">알림 서비스 플랫폼</string>
+    <string name="domain_1007001">Amazon SES</string>
+    <string name="domain_1007002">FCM</string>
+    <string name="domain_1007003">APNS</string>
+
+    <!-- NOTI_TYPE_DCD -->
+    <string name="domain_1008000">알림 유형</string>
+    <string name="domain_1008001">시스템 알림</string>
+
+    <!-- TOKEN_TYPE_DCD -->
+    <string name="domain_1009000">토큰 유형</string>
+    <string name="domain_1009001">ERC20</string>
+    <string name="domain_1009002">ERC71</string>
+    <string name="domain_1009003">NEO</string>
+    <string name="domain_1009004">Waves</string>
+    <string name="domain_1009005">BitShares</string>
+    <string name="domain_1009006">Stellar</string>
+    <string name="domain_1009007">QRC20</string>
+    <string name="domain_1009008">Omni</string>
+    <string name="domain_1009009">Counterparty</string>
+    <string name="domain_1009010">NEM</string>
+    <string name="domain_1009011">Ubiq</string>
+    <string name="domain_1009012">EOS</string>
+    <string name="domain_1009013">Ardor</string>
+    <string name="domain_1009014">Nxt</string>
+    <string name="domain_1009015">Ethereum Classic</string>
+    <string name="domain_1009016">Achain</string>
+    <string name="domain_1009017">NuBits</string>
+    <string name="domain_1009018">Nebulas</string>
+    <string name="domain_1009019">Ontology</string>
+    <string name="domain_1009020">Vechain [Token]</string>
+
+    <!-- CRYPTO_TYPE_DCD -->
+    <string name="domain_1010000">암호화 화폐 유형</string>
+    <string name="domain_1010001">Coin</string>
+    <string name="domain_1010002">Token</string>
+
+    <!-- ICO_REG_REQS_DCD -->
+    <string name="domain_1011000">ICO 등록 요구사항</string>
+    <string name="domain_1011001">None</string>
+    <string name="domain_1011002">KYC</string>
+    <string name="domain_1011003">Whitelist</string>
+    <string name="domain_1011004">KYC <![CDATA[&]]> Whitelist</string>
+
+    <!-- BOOT_NOTI_TYPE_DCD -->
+    <string name="domain_1012000">부팅 알림 유형</string>
+    <string name="domain_1012001">시스템 정기점검</string>
+    <string name="domain_1012002">앱 업데이트</string>
+    <string name="domain_1012003">일반 공지</string>
+
+    <!-- NOTI_SEND_ST_DCD -->
+    <string name="domain_1013000">알림 전송 상태</string>
+    <string name="domain_1013001">전송 요청</string>
+    <string name="domain_1013002">전송 대기</string>
+    <string name="domain_1013003">전송 완료</string>
+    <string name="domain_1013004">전송 실패</string>
+    <string name="domain_1013005">수신 완료</string>
+
+    <!-- EMAIL_VERIFY_TYPE_DCD -->
+    <string name="domain_1014000">이메일 검증 종류</string>
+    <string name="domain_1014001">이메일 등록 검증</string>
+    <string name="domain_1014002">이메일 변경 검증</string>
+
+    <!-- COIN_SORT_DCD -->
+    <string name="domain_1015000">암호화폐 정렬순서</string>
+    <string name="domain_1015001">암호화폐 번호순</string>
+    <string name="domain_1015002">암호화폐 노출순</string>
+
+    <!-- BNUS_TX_TYPE_DCD -->
+    <string name="domain_1016000">BNUS 트랜잭션 유형</string>
+    <string name="domain_1016001">매수</string>
+    <string name="domain_1016002">매도</string>
+
+    <!-- ELEMENT_DCD -->
+    <string name="domain_1017000">Tag Element</string>
+    <string name="domain_1017001">DAPP</string>
+
+    <!-- PLANET_ROLE_DCD -->
+    <string name="domain_1018000">행성의 구성원 역할</string>
+    <string name="domain_1018001">의장</string>
+    <string name="domain_1018002">부의장</string>
+    <string name="domain_1018003">구성원</string>
+
+    <!-- PRODUCT_TYPE_DCD -->
+    <string name="domain_1019000">표준상품 유형</string>
+    <string name="domain_1019001">광고 상품</string>
+    <string name="domain_1019002">에어드랍 상품</string>
+    <string name="domain_1019003">이커머스 상품</string>
+    <string name="domain_1019004">아이템 상품</string>
+
+    <!-- PRODUCT_ATTRIBUTE_DCD -->
+    <string name="domain_1020000">표준상품 속성</string>
+    <string name="domain_1020001">기간제</string>
+    <string name="domain_1020002">종량제</string>
+    <string name="domain_1020003">횟수제</string>
+    <string name="domain_1020004">기간제+종량제</string>
+    <string name="domain_1020005">기간제+횟수제</string>
+
+    <!-- PAYMENT_ST_DCD -->
+    <string name="domain_1021000">결제 상태</string>
+    <string name="domain_1021001">결제 요청</string>
+    <string name="domain_1021002">결제 진행</string>
+    <string name="domain_1021003">결제 완료</string>
+    <string name="domain_1021004">결제 취소</string>
+
+    <!-- SALES_TYPE_DCD -->
+    <string name="domain_1022000">매출 유형</string>
+    <string name="domain_1022001">매출</string>
+    <string name="domain_1022002">환불</string>
+
+    <!-- MINING_HASH_POWER_DCD -->
+    <string name="domain_1023000">해시 파워</string>
+    <string name="domain_1023001">BNUS</string>
+    <string name="domain_1023002">CNUS</string>
+    <string name="domain_1023003">POPULATION</string>
+
+    <!-- MINING_TICKET_DCD -->
+    <string name="domain_1024000">채굴 티켓</string>
+    <string name="domain_1024001">CNUS Ticket</string>
+
+    <!-- ROUND_TYPE_DCD -->
+    <string name="domain_1025000">채굴 라운드 유형</string>
+    <string name="domain_1025001">채굴 라운드</string>
+    <string name="domain_1025002">스냅샷 라운드</string>
+
+    <!-- ROUND_ST_DCD -->
+    <string name="domain_1026000">채굴 라운드 상태</string>
+    <string name="domain_1026001">채굴 예정</string>
+    <string name="domain_1026002">채굴 진행</string>
+    <string name="domain_1026003">채굴 스냅샷</string>
+    <string name="domain_1026004">채굴 완료</string>
+    <string name="domain_1026005">채굴 취소</string>
+
+    <!-- MINING_TYPE_DCD -->
+    <string name="domain_1027000">채굴 유형</string>
+    <string name="domain_1027001">기본</string>
+    <string name="domain_1027002">마케팅</string>
+
+    <!-- SEASON_TYPE_DCD -->
+    <string name="domain_1028000">채굴 시즌 유형</string>
+    <string name="domain_1028001">채굴 준비 시즌</string>
+    <string name="domain_1028002">채굴 진행 시즌</string>
+
+    <!-- CLAIM_ST_DCD -->
+    <string name="domain_1029000">채굴 티켓 청구 상태</string>
+    <string name="domain_1029001">청구 신청</string>
+    <string name="domain_1029002">신청 취소</string>
+    <string name="domain_1029003">정산 완료</string>
+    <string name="domain_1029004">정산 실패</string>
+
+</resources>
