@@ -1,0 +1,20 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+plugins {
+    id 'com.android.application' version '7.2.0' apply false
+    id 'com.android.library' version '7.2.0' apply false
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
+
+ext {
+    gsonVersion = '2.8.6'
+    retrofitVersion = '2.3.0'
+    web3jCoreAndroidVersion = '4.6.0-android'
+    bitcoinJCoreVersion = '0.15.8'
+    okHttpVersion = '3.8.1'
+    okHttpUrlConnectorVersion = '3.4.2'
+    lombokVersion = '1.16.10'
+    apacheCommonCollectionVersion = '4.1'
+}
